@@ -3,7 +3,7 @@ function getRightCaptain() {
 }
 
 function getRightDoc() {
-
+console.log('a')
 }
 
 function getAllEngineer() {//a
